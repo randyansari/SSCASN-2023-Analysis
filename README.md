@@ -10,3 +10,11 @@ Variabel-variabel yang dianalisis antara lain:
 3. Instansi Formasi
 4. Lokasi Formasi
 5. Gaji Formasi
+
+Berikut ini adalah insight yang didapatkan dari proses Exploratory Data Analysis pada data lowongan formasi Seleksi Calon Aparatur Sipil Negara 2023:
+- S1 Manajemen adalah jurusan yang paling banyak di-mention pada pada kolom jurusan yang bisa mendaftar pada formasi yang tersedia.
+- Badan Kependudukan dan Keluarga Berencana Nasional adalah instasi yang membuka formasi terbanyak pada Seleksi Calon Aparatur Sipil Negara 2023.
+- Ahli Pertama - Penyuluh Keluarga Berencana adalah jabatan yang paling banyak dibutuhkan pada Seleksi Calon Aparatur Sipil Negara 2023.
+- Pemerintah Kab. Halmahera Timur dan Pemerintah Kab. Sumbawa merupakan Instansi yang menawarkan Gaji Minimum Terendah
+- Pemerintah Kab. Bengkalis merupakan Instansi yang menawarkan Gaji Maksimum Tertinggi
+- Distribusi Gaji untuk masing-masing Instansi dan Formasi tidak merata.
