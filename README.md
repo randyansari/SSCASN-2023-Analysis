@@ -3,3 +3,10 @@
 SSCASN atau Sistem Seleksi Calon Aparatur Sipil Negara adalah situs resmi pendaftaran ASN secara nasional sebagai pintu pendaftaran pertama seleksi ASN ke seluruh Instansi baik Pusat maupun Daerah dan dikelola oleh Badan Kepegawaian Negara RI. Situs SSCASN dapat diakses melalui https://sscasn.bkn.go.id/. 
 
 Pada project ini akan dilakukan Analisis mengenai formasi lowongan calon Aparatur Sipil Negara yang dibuka pada tahun 2023. Sumber data yang digunakan pada project ini berasal dari https://github.com/mashanz/sscasn.
+
+Variabel-variabel yang dianalisis antara lain:
+1. Jurusan
+2. Formasi
+3. Instansi Formasi
+4. Lokasi Formasi
+5. Gaji Formasi
